@@ -17,10 +17,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Modified
+Hi! I'm Hoang. I'm currently an AI resident at FPT Software AI Center where I'm advised by Professor [Long Tran-Thanh](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/), Dr. Dung Le Duy, and Dr. Anh Ta-The. Previously, I was a research assistant at [Data Science Lab](http://ds.soict.hust.edu.vn/) in Hanoi University of Science and Technology where I earned my Engineering Degree in Computer Science. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [Hoang Pham pages](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research:** My current works focus on Sparse Neural Network, Continual Learning, and Meta Learning with the ultimate goal that creating AI model having the learning abilities like human (rapid and continuous learning tasks without catastrophic forgetting). In particular, I am investigating brain-inspired Continual Learning model which different network's components take into account different tasks.
