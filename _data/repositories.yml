@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pvh1602
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pvh1602/aiDropout
+  - pvh1602/GCUnet-PolypSeg
